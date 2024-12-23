@@ -117,6 +117,17 @@
       -- Male customers are more in branches A and B, but females are more in branch C.
       -- The average rating from branches A and C is 7, and branch B is 6.8.
 
+      
+## Actionable Insights:
+   -- Focus on promoting Health and Beauty products to increase their sales and ratings.
+   -- Leverage Branch C's strong performance to replicate successful strategies in other branches.
+   -- Increase engagement with Normal customers to convert them into members and boost overall sales.
+   -- Optimize inventory and cost management during January, as COGS tends to be higher in this month.
+   -- Consider expanding marketing campaigns targeting Saturday evenings to capitalize on peak sales times.
+   -- Analyze why Branch B lags in performance and ratings, and implement corrective measures. 
+
+
+
 
 
 
