@@ -4,7 +4,7 @@
 ## About Data:
    This dataset contains sales transactions from three different branches of Amazon, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows
 ## ER Diagram
- ![](https://github.com/BhavanaBalasa/SuperMarketAnalysis/blob/main/erd.png)  
+ ![](https://github.com/BhavanaBalasa/AmazonSalesData_SQL_Project/blob/main/AmazonSalesTable.png)
 
 ## Approach Used:
  ### 1. Data Wrangling: 
